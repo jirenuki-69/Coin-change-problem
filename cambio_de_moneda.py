@@ -104,6 +104,7 @@ def dynamicCoinChange(table, n, denoms, count, coin = []):
                 new_change[denoms.index(denoms[i])] = denoms[i]
     for i in range(len(new_change)):
         if new_change[i] != None:
+            count[i] -= 1
             coin.append(denoms[i])
             dynamicCoinChange(table, n - denoms[i], denoms, count, coin)
         else:

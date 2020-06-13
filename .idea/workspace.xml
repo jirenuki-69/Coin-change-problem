@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafc6458-6e55-4d2b-8851-cf9dd01b912e" name="Default Changelist" comment="" />
+    <list default="true" id="cafc6458-6e55-4d2b-8851-cf9dd01b912e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cambio_de_moneda.py" beforeDir="false" afterPath="$PROJECT_DIR$/cambio_de_moneda.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ctRA12ftgJY5osJOhSbiyPDHPp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +29,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -147,6 +156,7 @@
       <workItem from="1591979443524" duration="480000" />
       <workItem from="1591984178451" duration="8579000" />
       <workItem from="1592001795324" duration="9422000" />
+      <workItem from="1592012351564" duration="1199000" />
     </task>
     <servers />
   </component>
@@ -166,38 +176,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591857310575" />
-    <state width="1877" height="215" key="GridCell.Tab.0.bottom" timestamp="1592011231047">
+    <state width="1877" height="105" key="GridCell.Tab.0.bottom" timestamp="1592013513303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
-    <state width="1877" height="215" key="GridCell.Tab.0.center" timestamp="1592011231047">
+    <state width="1877" height="105" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592013513303" />
+    <state width="1877" height="105" key="GridCell.Tab.0.center" timestamp="1592013513303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
-    <state width="1877" height="215" key="GridCell.Tab.0.left" timestamp="1592011231047">
+    <state width="1877" height="105" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592013513303" />
+    <state width="1877" height="105" key="GridCell.Tab.0.left" timestamp="1592013513303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
-    <state width="1877" height="215" key="GridCell.Tab.0.right" timestamp="1592011231047">
+    <state width="1877" height="105" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592013513303" />
+    <state width="1877" height="105" key="GridCell.Tab.0.right" timestamp="1592013513303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
-    <state width="1877" height="215" key="GridCell.Tab.1.bottom" timestamp="1592011231047">
+    <state width="1877" height="105" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592013513303" />
+    <state width="1877" height="215" key="GridCell.Tab.1.bottom" timestamp="1592012659518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
-    <state width="1877" height="215" key="GridCell.Tab.1.center" timestamp="1592011231047">
+    <state width="1877" height="215" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592012659518" />
+    <state width="1877" height="215" key="GridCell.Tab.1.center" timestamp="1592012659518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
-    <state width="1877" height="215" key="GridCell.Tab.1.left" timestamp="1592011231047">
+    <state width="1877" height="215" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592012659518" />
+    <state width="1877" height="215" key="GridCell.Tab.1.left" timestamp="1592012659518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
-    <state width="1877" height="215" key="GridCell.Tab.1.right" timestamp="1592011231047">
+    <state width="1877" height="215" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592012659518" />
+    <state width="1877" height="215" key="GridCell.Tab.1.right" timestamp="1592012659518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="215" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592011231047" />
+    <state width="1877" height="215" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592012659518" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1591852268193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -206,9 +216,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="459" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592001818464" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1592012570209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592012570209" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cambio_de_moneda.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -225,6 +246,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Proyecto_5$coin_change.coverage" NAME="coin_change Coverage Results" MODIFIED="1591852998997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Coin_change_problem$cambio_de_moneda.coverage" NAME="cambio_de_moneda Coverage Results" MODIFIED="1592013513292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Proyecto_5$cambio_de_moneda.coverage" NAME="cambio_de_moneda Coverage Results" MODIFIED="1592011011609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Proyecto_5$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1592003800567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Proyecto_5$test.coverage" NAME="test Coverage Results" MODIFIED="1592009104956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
